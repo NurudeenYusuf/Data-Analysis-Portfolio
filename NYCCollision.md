@@ -1,5 +1,4 @@
 # Project Report: NYC Collision Analysis
-**Date:** January 5, 2026
 **Analyst:** Nurudeen
 **Tool Used:** Power BI
 
