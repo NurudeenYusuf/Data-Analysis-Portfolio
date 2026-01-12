@@ -1,5 +1,4 @@
 # Project Report: Employee Survey Analysis
-**Date:** January 5, 2026
 **Analyst:** Nurudeen
 **Tool Used:** Power BI
 
@@ -35,11 +34,11 @@ Yes, there are clear structural trends, particularly regarding organizational hi
 ## Conclusion & Recommendations
 
 **Conclusion:**
-[cite_start]The organization is functionally strong (employees know what to do) but culturally vulnerable (employees feel socially disconnected)[cite: 30]. [cite_start]Furthermore, the sentiment gap between Directors and Staff indicates that the "view from the top" does not accurately reflect the day-to-day reality of the frontline workforce[cite: 31]. [cite_start]The drastically low agreement rate in the Sheriff's Department may lead to security issues if not properly managed[cite: 32].
+The organization is functionally strong (employees know what to do) but culturally vulnerable (employees feel socially disconnected). Furthermore, the sentiment gap between Directors and Staff indicates that the "view from the top" does not accurately reflect the day-to-day reality of the frontline workforce. The drastically low agreement rate in the Sheriff's Department may lead to security issues if not properly managed.
 
 **Recommendations:**
-[cite_start]As an employer, I would take the following three steps to improve satisfaction[cite: 34]:
+As an employer, I would take the following three steps to improve satisfaction:
 
-1.  [cite_start]**Launch a "Culture & Connection" Initiative (Addressing the 'Best Friend' Low Score):** Since social connection is the lowest scoring area, the company should invest in team-building activities, cross-departmental mixers, or "coffee chat" programs[cite: 36]. [cite_start]The goal is to move the culture from purely transactional to relational[cite: 37].
-2.  [cite_start]**Bridge the Leadership Gap (Addressing the Staff vs. Director Trend):** Implement **Skip-Level Meetings** or Town Halls where Staff can speak directly to Directors[cite: 39]. [cite_start]The data shows Staff are less happy than their bosses; leadership needs to "walk the floor" to understand the specific friction points affecting entry-level roles[cite: 40, 41].
-3.  [cite_start]**Department-Specific Support:** Conduct a focus group specifically for the **Sheriff's Department** teams to understand why their scores are lower than the Communications team[cite: 43]. [cite_start]It could be a sense of neglect or a lack of recognition[cite: 44].
+1.  **Launch a "Culture & Connection" Initiative (Addressing the 'Best Friend' Low Score):** Since social connection is the lowest scoring area, the company should invest in team-building activities, cross-departmental mixers, or "coffee chat" programs. The goal is to move the culture from purely transactional to relational.
+2.  **Bridge the Leadership Gap (Addressing the Staff vs. Director Trend):** Implement **Skip-Level Meetings** or Town Halls where Staff can speak directly to Directors. The data shows Staff are less happy than their bosses; leadership needs to "walk the floor" to understand the specific friction points affecting entry-level roles.
+3.  **Department-Specific Support:** Conduct a focus group specifically for the **Sheriff's Department** teams to understand why their scores are lower than the Communications team. It could be a sense of neglect or a lack of recognition.
