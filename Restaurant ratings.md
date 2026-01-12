@@ -1,10 +1,9 @@
-# Project Report: Restaurant Ratings & Consumer Preferences
-**Date:** January 5, 2026
-**Analyst:** Nurudeen (TheArtisticNurudeen)
+# Project Report: Restaurant Ratings
+**Analyst:** Nurudeen Yusuf
 **Tool Used:** Power BI
 
 ## Executive Summary
-The analysis indicates a market heavily dominated by a specific demographic: **single students aged 20–29** with a **medium budget**. [cite_start]While "Mexican" cuisine commands the highest demand by a massive margin, its average rating is only mediocre (1.22/2.0), suggesting a "quantity over quality" saturation. The data reveals that contrary to the budget-conscious demographic, restaurants with **Medium pricing**, **Alcohol service**, and **Smoking sections** actually achieve higher customer satisfaction scores.
+The analysis indicates a market heavily dominated by a specific demographic: **single students aged 20–29** with a **medium budget**. While "Mexican" cuisine commands the highest demand by a massive margin, its average rating is only mediocre (1.22/2.0), suggesting a "quantity over quality" saturation. The data reveals that contrary to the budget-conscious demographic, restaurants with **Medium pricing**, **Alcohol service**, and **Smoking sections** actually achieve higher customer satisfaction scores.
 
 ### Question 1: What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings?
 **Answer:**
@@ -25,7 +24,7 @@ Yes, there is a severe selection bias.
 ### Question 3: Are there any demand & supply gaps that you can exploit in the market?
 **Answer:**
 * **The "Mexican" Paradox:**
-    * **Demand:** Mexican cuisine is the undisputed king of demand, with a **Cuisine Popularity score of 331**. [cite_start]The next closest cuisines (American, Cafeteria) have popularity scores of 11 or lower.
+    * **Demand:** Mexican cuisine is the undisputed king of demand, with a **Cuisine Popularity score of 331**. The next closest cuisines (American, Cafeteria) have popularity scores of 11 or lower.
     * **The Gap:** Despite this massive demand, the **Average Food Rating for Mexican is only 1.22**. This indicates that while everyone eats it, few are "Highly Satisfied" with the current options. The market is flooded but mediocre.
 * **Niche Opportunities:** **American** cuisine shows decent popularity (11) but a low rating (1.10), suggesting another area where quality is lacking.
 
