@@ -1,5 +1,5 @@
 # Project Report: NYC Collision Analysis
-**Analyst:** Nurudeen
+**Analyst:** Nurudeen Yusuf
 **Tool Used:** Power BI
 
 ## Executive Summary
